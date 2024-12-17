@@ -24,3 +24,5 @@ This is a **Dice Game** web application built with **ReactJS**. The application 
 - **React State**: Used for managing the dice rolling logic and score tracking.
 
 ---
+## Snapshots
+
