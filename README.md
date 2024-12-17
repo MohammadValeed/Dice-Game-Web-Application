@@ -26,3 +26,8 @@ This is a **Dice Game** web application built with **ReactJS**. The application 
 ---
 ## Snapshots
 
+![Dice Game Screenshot](./images/Screenshot_2024-12-17_153101.png)
+
+![Dice Game Screenshot](./images/Screenshot_2024-12-17_153116.png)
+
+---
